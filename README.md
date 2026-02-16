@@ -6,6 +6,7 @@ This project focuses on building strong logical thinking using real-world inspir
 
 ## Objective
 To implement clean, readable Python programs that demonstrate:
+
 ✔ Logical reasoning  
 ✔ Efficient use of data structures  
 ✔ Practical problem-solving skills  
